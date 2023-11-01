@@ -1,0 +1,85 @@
+.a{
+    background-color: blue;
+
+}
+.b{
+    background-color: red;
+
+}
+.c{
+    background-color: purple;
+
+}
+.da{
+    height: 500px;
+width: 1500px;
+background-color: rgb(0, 217, 255);
+border-width: 3px;
+border-color: black;
+border-radius: 20%;
+margin: 10px;
+padding: 5px;
+border-style: solid;
+text-align: center;
+}
+.db{
+    height: 500px;
+width: 1500px;
+background-color: rgb(255, 34, 0);
+border-width: 3px;
+border-color: black;
+border-radius: 20%;
+margin: 10px;
+padding: 5px;
+border-style: solid;
+text-align: center;
+}
+.dc{
+height: 500px;
+width: 1500px;
+background-color: rgb(0, 255, 34);
+border-width: 3px;
+border-color: black;
+border-radius: 20%;
+margin: 10px;
+padding: 5px;
+border-style: solid;
+text-align: center;
+}
+.dd{
+    height: 500px;
+    width: 1500px;
+    background-color: rgb(255, 0, 230);
+    border-width: 3px;
+    border-color: black;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+    border-style: solid;
+    text-align: center;
+    }
+    .de{
+        height: 500px;
+        width: 1500px;
+        background-color: rgb(255, 242, 0);
+        border-width: 3px;
+        border-color: black;
+        border-radius: 20%;
+        margin: 10px;
+        padding: 5px;
+        border-style: solid;
+        text-align: center;
+        }
+        .df{
+            height: 500px;
+        width: 1500px;
+        background-color: rgb(0, 217, 255);
+        border-width: 3px;
+        border-color: black;
+        border-radius: 20%;
+        margin: 10px;
+        padding: 5px;
+        border-style: solid;
+        text-align: center;
+        font-size: 70px;
+        }
